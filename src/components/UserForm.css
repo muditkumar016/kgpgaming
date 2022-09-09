@@ -1,0 +1,21 @@
+.UserForm{
+    float:calc(90% - 80px);
+    background-color: #899F9B;
+    padding: 5%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#Button{
+    background-color: #F0E9D2;
+    border-color: #F0E9D2;
+    color: black;
+    border-radius: 15px;
+    float:right;
+}
+
+#Cancel{
+    color: #FFFFFF;
+}
